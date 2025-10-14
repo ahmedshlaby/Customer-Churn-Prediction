@@ -84,7 +84,7 @@ Contains:
 
 This app is **fully deployed on Streamlit Cloud** for public access.
 
-🔗 **Live Demo:** [Click Here to View App](https://ahmedshlaby-customer-churn-prediction.streamlit.app/)  
+🔗 **Live Demo:** [Click Here to View App]([https://ahmedshlaby-customer-churn-prediction.streamlit.app/](https://ahmedshlaby-customer-churn-prediction-customer-churn-bv74t0.streamlit.app/))  
 🔗 **GitHub Repository:** [https://github.com/ahmedshlaby/customer-churn-prediction](https://github.com/ahmedshlaby/customer-churn-prediction)
 
 ---
