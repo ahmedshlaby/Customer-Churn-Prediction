@@ -664,7 +664,7 @@ elif page == "🎯 Presentation":
     """, unsafe_allow_html=True)
 
     
-    video_url = "https://drive.google.com/uc?export=download&id=1ZrGk2GE5Qmo4JzkoI9Git1qjjNZ3DcDL"
+    video_url = "https://www.dropbox.com/scl/fi/jyvd9nlmy7flh2k2q9dqz/Customer_Churn.ipynb-Final-Project-Visual-Studio-Code-2025-10-14-21-31-50.mp4?rlkey=acoq1dyb6ek8f0ea29f69grvn&st=6gjuu8q6&dl=0"
     st.video(video_url)
 
     
@@ -675,6 +675,7 @@ elif page == "🎯 Presentation":
                     © 2025 | Developed by <strong>Ahmed Shlaby</strong> | 📧 <a href="mailto:shalabyahmed299@gmail.com">Contact</a>
                 </p>
                 """, unsafe_allow_html=True)
+
 
 
 
