@@ -662,7 +662,7 @@ elif page == "🎯 Presentation":
     """, unsafe_allow_html=True)
 
     
-    video_url = "https://drive.google.com/uc?export=download&id=1ZrGk2GE5Qmo4JzkoI9Git1qjjNZ3DcDL"
+    video_url = "https://drive.google.com/file/d/1ZrGk2GE5Qmo4JzkoI9Git1qjjNZ3DcDL/view"
     st.video(video_url)
 
     
@@ -673,6 +673,7 @@ elif page == "🎯 Presentation":
                     © 2025 | Developed by <strong>Ahmed Shlaby</strong> | 📧 <a href="mailto:shalabyahmed299@gmail.com">Contact</a>
                 </p>
                 """, unsafe_allow_html=True)
+
 
 
 
