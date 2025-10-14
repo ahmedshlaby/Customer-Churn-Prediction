@@ -653,6 +653,7 @@ elif page == "🎯 Presentation":
             - Combines **EDA, feature engineering, model comparison, and visualization** into one integrated system
             """)
 
+    
     st.markdown("""
     <div style='background: #f0f8ff; padding: 20px; border-radius: 15px; text-align:center'>
         <h3 style='color:#008C9E;'>🎥 Watch the Project Demo</h3>
@@ -667,5 +668,6 @@ elif page == "🎯 Presentation":
                     © 2025 | Developed by <strong>Ahmed Shlaby</strong> | 📧 <a href="mailto:shalabyahmed299@gmail.com">Contact</a>
                 </p>
                 """, unsafe_allow_html=True)
+
 
 
