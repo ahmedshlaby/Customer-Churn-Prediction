@@ -531,7 +531,7 @@ elif page == "🤖 Prediction":
 
 # ------------------- PRESENTATION PAGE -------------------
 elif page == "🎯 Presentation":
-    st.markdown("<h1 style='color:#008C9E;'>🎯 Project Presentation</h1>", unsafe_allow_html=True)
+    st.markdown("<h1 style='color:#008C9E; text-align:center;'>🎯 Project Presentation</h1>", unsafe_allow_html=True)
     st.write("This page summarizes all steps performed throughout the project, from start to deployment.")
 
     # ----------------- Problem Definition -------------
@@ -673,6 +673,7 @@ elif page == "🎯 Presentation":
                     © 2025 | Developed by <strong>Ahmed Shlaby</strong> | 📧 <a href="mailto:shalabyahmed299@gmail.com">Contact</a>
                 </p>
                 """, unsafe_allow_html=True)
+
 
 
 
