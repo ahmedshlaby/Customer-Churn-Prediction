@@ -84,7 +84,7 @@ Contains:
 
 This app is **fully deployed on Streamlit Cloud** for public access.
 
-🔗 **Live Demo:** [Click Here to View App]([https://ahmedshlaby-customer-churn-prediction.streamlit.app/](https://ahmedshlaby-customer-churn-prediction-customer-churn-bv74t0.streamlit.app/))  
+🔗 **Live Demo:** [Click Here to View App](https://ahmedshlaby-customer-churn-prediction.streamlit.app/)  
 🔗 **GitHub Repository:** [https://github.com/ahmedshlaby/customer-churn-prediction](https://github.com/ahmedshlaby/customer-churn-prediction)
 
 ---
@@ -95,7 +95,7 @@ This app is **fully deployed on Streamlit Cloud** for public access.
 📍 Egypt, Cairo  
 📧 [shalabyahmed299@gmail.com](mailto:shalabyahmed299@gmail.com)  
 
-🔗 [GitHub](https://github.com/ahmedshlaby) | [LinkedIn]([https://www.linkedin.com/in/ahmedshlaby](https://www.linkedin.com/in/ahmed-shlaby22/))
+🔗 [GitHub](https://github.com/ahmedshlaby) | [LinkedIn](https://www.linkedin.com/in/ahmed-shlaby22/)
 
 ---
 
