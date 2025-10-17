@@ -122,7 +122,7 @@ if page == "🏠 Home":
         st.markdown("""
         <div style='background-color:#f8f9fa; padding:15px; border-radius:10px; text-align:center; box-shadow:0 2px 8px rgba(0,0,0,0.05);'>
         <h3 style='color:#008C9E;'>🔮 Predictions</h3>
-        <p style='color:#008C9E;'>Get real-time churn predictions by entering customer details.</p>
+        <p style='color:#000000;'>Get real-time churn predictions by entering customer details.</p>
         </div>
         """, unsafe_allow_html=True)
 
@@ -676,6 +676,7 @@ elif page == "🎯 Presentation":
                     © 2025 | Developed by <strong>Ahmed Shlaby</strong> | 📧 <a href="mailto:shalabyahmed299@gmail.com">Contact</a>
                 </p>
                 """, unsafe_allow_html=True)
+
 
 
 
