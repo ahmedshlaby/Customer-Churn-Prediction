@@ -108,14 +108,14 @@ if page == "🏠 Home":
         st.markdown("""
         <div style='background-color:#f8f9fa; padding:15px; border-radius:10px; text-align:center; box-shadow:0 2px 8px rgba(0,0,0,0.05);'>
         <h3 style='color:#008C9E;'>📊 EDA Insights</h3>
-        <p>Explore customer demographics and churn distribution through dynamic visuals.</p>
+        <p style='color:#000000;'>Explore customer demographics and churn distribution through dynamic visuals.</p>
         </div>
         """, unsafe_allow_html=True)
     with col2:
         st.markdown("""
         <div style='background-color:#f8f9fa; padding:15px; border-radius:10px; text-align:center; box-shadow:0 2px 8px rgba(0,0,0,0.05);'>
         <h3 style='color:#008C9E;'>🤖 Machine Learning</h3>
-        <p>Compare and evaluate multiple ML models using cross-validation metrics.</p>
+        <p style='color:#000000;'>Compare and evaluate multiple ML models using cross-validation metrics.</p>
         </div>
         """, unsafe_allow_html=True)
     with col3:
@@ -676,6 +676,7 @@ elif page == "🎯 Presentation":
                     © 2025 | Developed by <strong>Ahmed Shlaby</strong> | 📧 <a href="mailto:shalabyahmed299@gmail.com">Contact</a>
                 </p>
                 """, unsafe_allow_html=True)
+
 
 
 
